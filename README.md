@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Luminous - AI Wallpaper Generator" width="100%" />
-</p>
+
 
 # 🎇 Luminous – AI Wallpaper Generator  
 
