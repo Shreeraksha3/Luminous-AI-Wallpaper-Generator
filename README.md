@@ -3,6 +3,11 @@
 **Luminous** is a web app that lets you create **unique wallpapers** with the help of **AI**.  
 Just pick your favorite **colors 🎨, styles 🖌, and moods 🌈**, add a short description, and watch your wallpaper come to life!  
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)  
+![Framework](https://img.shields.io/badge/FastAPI-Backend-green?logo=fastapi)  
+![License](https://img.shields.io/badge/License-MIT-yellow)  
+![Status](https://img.shields.io/badge/Status-Prototype-orange)  
+
 ---
 
 ## ✨ Features  
