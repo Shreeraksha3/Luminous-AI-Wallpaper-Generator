@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Luminous - AI Wallpaper Generator" width="100%" />
+</p>
+
 # 🎇 Luminous – AI Wallpaper Generator  
 
 **Luminous** is a web app that lets you create **unique wallpapers** with the help of **AI**.  
