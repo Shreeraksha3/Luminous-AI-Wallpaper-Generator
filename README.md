@@ -27,3 +27,47 @@ Just pick your favorite **colors 🎨, styles 🖌, and moods 🌈**, add a shor
    python -m venv venv
    venv\Scripts\activate   # On Windows
    # source venv/bin/activate   # On macOS/Linux
+3. **Install dependencies:**
+   ```sh
+   pip install -r requirements.txt
+
+---
+
+## ▶️ Usage
+
+1. **Run the server:**
+   ```sh
+   python app/main.py
+2. **Open in browser:**
+   ```sh
+   http://localhost:8000
+3. **Generate Wallpapers:**
+   - Pick your color 🌈, style 🖌, and mood 💫.
+   - Add a short description ✍️.
+   - Get a preview 👀 and download your custom wallpaper.
+   
+---
+
+## 📂 Project Structure
+1. Project Structure
+ 
+   ```sh
+      Wallpaper/
+   ├── app/
+   │   ├── main.py          # Main application
+   │   ├── static/          # Static files (CSS, JS, images)
+   │   └── templates/       # HTML templates
+   ├── requirements.txt     # Dependencies
+   └── README.md            # Documentation
+
+   
+---
+## ⚡ AI Integration
+
+  - The backend is structured to support AI-based image generation.
+  - Replace the placeholder image logic in app/main.py with your own AI model (e.g., Stable Diffusion, DALL·E, etc.).
+---
+
+## 🌟 About Luminous
+- Luminous makes wallpaper creation effortless 💡.
+- Instead of searching the internet, you can design your own wallpaper in seconds — guided by colors, mood, and creativity ✨.
